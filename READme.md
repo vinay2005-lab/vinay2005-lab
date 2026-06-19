@@ -1,3 +1,16 @@
+<img src="banner.png" alt="Vinay's Banner" width="100%" />
+
+![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay2005-lab&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay2005-lab&layout=compact&theme=tokyonight)
+![Hackathon Lover](https://img.shields.io/badge/Hackathons-Active-blue)
+![AI Builder](https://img.shields.io/badge/AI-SaaS-green)
+![Chess Fan](https://img.shields.io/badge/Hobby-Chess-yellow)
+[![Play My Game](https://img.shields.io/badge/Play-Now-green)](https://github.com/vinay2005-lab/memory-sequence-game)
+
+![GitHub Snake](https://github.com/vinay2005-lab/vinay2005-lab/blob/output/github-contribution-grid-snake.svg)
+
+
+
 # Hi, I'm Vinay 👋
 
 🎓 Computer Science undergraduate at Gopalan College of Engineering and Management  
