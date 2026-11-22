@@ -3,6 +3,20 @@
 <!--                 VINAY | CYBERPUNK PROFILE                  -->
 <!-- ========================================================= -->
 
+
+<div align="center">
+
+<a href="https://vinay2005-lab.github.io/vinay-os/">
+  <img src="https://img.shields.io/badge/⚡_ENTER_VINAY_OS-INTERACTIVE_DEVELOPER_EXPERIENCE-00F0FF?style=for-the-badge&labelColor=0D1117" />
+</a>
+
+<br/>
+
+### [ ACCESS MY DEVELOPER COMMAND CENTER ↗](https://vinay2005-lab.github.io/vinay-os/)
+
+</div>
+
+
 <div align="center">
 
 <!-- PROFILE IDENTITY -->
